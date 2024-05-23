@@ -31,6 +31,13 @@ There are two types of data binding in angular
 
 5. what are Single Page Application?
 
+  Single Page Application is a web app that loads all necessary HTML,CSS,Javascript in the initial page load and dynamically updates the do based on user interactions.
+
+  It gives the user illusion that he is accessing the different page/path.
+
+  It helps in Search Engine Optimization(SEO) and provides the experience of using a native app.
+ 
+
 
 
 
