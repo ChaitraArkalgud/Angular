@@ -26,6 +26,14 @@ There are two types of data binding in angular
 * Responsive User Interfaces: With automatic updates triggered by data changes, Angular applications can provide a seamless and responsive user experience.
 
 * Ease of Development: Data binding simplifies the development process by abstracting away many complexities associated with managing the DOM, allowing developers to focus on application logic.
+
+==================================================================================================================================================================================================
+
+5. what are Single Page Application?
+
+
+
+
    
 ==================================================================================================================================================================================================
 
