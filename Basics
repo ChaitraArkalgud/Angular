@@ -7,5 +7,26 @@ pallavsingh hashnode
 ==================================================================================================================================================================================================
 
 3. What is Data Binding? Which type of data binding does Angular deploy?
+   Data binding is a mechanism where data synchroniztion happens between model and view.
+
+There are two types of data binding in angular
+ * One Way Binding ---   data flows in a single direction, either from the component to the view (interpolation or property binding) or from the view to the component (event binding).
+ * Two Way Binding ---   Two-way binding is a combination of both one-way binding for property binding and event binding. It simplifies the synchronization between the component and 
+                         the view by using the ngModel directive, allowing changes in the view to update the component and vice versa.
+
+==================================================================================================================================================================================================
+
+4. what are the advantages of Databinding in Angular?
+
+* Reduced Boilerplate Code  : Data binding eliminates the need for manual DOM manipulation, reducing the amount of code developers need to write.
+
+* Improved Readability and Maintainability: Binding expressions in the template make it clear how data is flowing between the component and the view, enhancing code readability. 
+                                            This, in turn, makes the codebase more maintainable.
+
+* Responsive User Interfaces: With automatic updates triggered by data changes, Angular applications can provide a seamless and responsive user experience.
+
+* Ease of Development: Data binding simplifies the development process by abstracting away many complexities associated with managing the DOM, allowing developers to focus on application logic.
+   
+==================================================================================================================================================================================================
 
 
