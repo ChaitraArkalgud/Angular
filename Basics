@@ -38,10 +38,18 @@ There are two types of data binding in angular
   It helps in Search Engine Optimization(SEO) and provides the experience of using a native app.
  
 
-
-
-
-   
 ==================================================================================================================================================================================================
+
+6. Diffeerence between Angular and AngularJS?
+
+         Angular                               AngularJs
+
+   *   Component based Architecture          MVC Architecture
+   *   Written in Typescript                 Javascript
+   *   Have CLI                              Dont have CLI
+   *   
+
+https://www.uplers.com/blog/angular-vs-angularjs/#:~:text=Angular%20JS%20and%20Angular%20were,AngularJS%20adopts%20the%20MVC%20framework.
+
 
 
