@@ -1,6 +1,12 @@
 ![image](https://github.com/ChaitraArkalgud/Angular/assets/33710825/3283cd19-2cde-4147-b8cb-359f2d01b10e)
 https://jstobigdata.com/rxjs/a-complete-rxjs-tutorial/
 
+Datatypes in JS
+Undefined and null
+
+https://dev.to/srishtikprasad/mapfilterreduce-with-important-interview-questions-1ae5![image](https://github.com/ChaitraArkalgud/Angular/assets/33710825/477cf361-c32c-43dc-a828-b0ac83e8c282)
+
+
 https://github.com/rohan-paul/Awesome-JavaScript-Interviews/tree/master/Angular-Topics-Interview
 
 https://frontendinterviewquestions.medium.com/top-90-angular-interview-questions-and-answers-55468da98392
