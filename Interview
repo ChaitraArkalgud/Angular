@@ -1,0 +1,6 @@
+*15.* When would you use `Subject` vs `BehaviorSubject`?
+*16.* A user searches for Customer ID 101 twice. How would you prevent the second API call?
+*17* How would you optimize an Angular screen displaying thousands of records with images?
+*18* Have you implemented role-based menus? Explain your approach.
+*19* The API isn't ready, but Angular development must continue. How would you enable frontend development and testing?
+*20* How do you manage API URLs and configurations across Dev, QA, UAT, and Production?
